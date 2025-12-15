@@ -49,9 +49,9 @@ Industry partners in renewable energy and monitoring technologies
 
 BEO is seeking support and partnerships to apply for funding to run the joint research programme, which consists of:
 
-Project A: Laboratory-Scale Research Project to validate the measurement instrument and establish baseline data.
+### [Project A: Laboratory-Scale Research Project to validate the measurement instrument and establish baseline data]()
 
-Project B: Agricultural Research Project deploying mobile monitoring systems in real-world farming contexts to evaluate energy, Bitcoin, and land-use outcomes.
+### [Project B: Agricultural Research Project deploying mobile monitoring systems in real-world farming contexts to evaluate energy, Bitcoin, and land-use outcomes]()
 
 
 Through these projects, BEO will build the foundation for a distributed observatory network, capable of producing scientifically credible and policy-relevant insights about Bitcoin energy use and multifunctional renewable energy deployment.
