@@ -14,7 +14,7 @@ The Bitcoin Energy Observatory (BEO) mission is to collect, analyze, and publish
 
 ---
 
-## Mission and Objectives
+## Objectives
 
 BEO’s primary objective is to establish a coordinated research programme that investigates the interaction of digital asset production, renewable energy systems, and land use. The goals are to:
 
