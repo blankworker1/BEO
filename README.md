@@ -1,15 +1,15 @@
-# BEO
-
-Bitcoin Energy Observatory 
+# BEO - Bitcoin Energy Observatory 
 
 Introduction to the Bitcoin Energy Observatory (BEO)
+
+Bitcoin Energy Observatory (BEO) is a non-profit research initiative measuring and analyzing the energy consumption of Bitcoin mining to produce open, reproducible data for science, policy, and sustainable land-use innovation.
 
 
 ---
 
 ## About BEO
 
-The Bitcoin Energy Observatory (BEO) is a newly formed non-profit association dedicated to advancing scientific understanding of Bitcoin mining as an energy-intensive process. BEO’s mission is to collect, analyze, and publish high-quality, reproducible data linking energy consumption to Bitcoin production under controlled and real-world conditions. Through its research, BEO aims to provide evidence-based insights for policymakers, academics, farmers, and energy stakeholders.
+The Bitcoin Energy Observatory (BEO) mission is to collect, analyze, and publish high-quality, reproducible data linking energy consumption to Bitcoin production under controlled and real-world conditions. Through its research, BEO aims to provide evidence-based insights for policymakers, academics, farmers, and energy stakeholders.
 
 
 ---
