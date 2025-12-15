@@ -1,6 +1,6 @@
 # BEO
 
-## Bitcoin Energy Observatory 
+Bitcoin Energy Observatory 
 
 Introduction to the Bitcoin Energy Observatory (BEO)
 
