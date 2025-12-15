@@ -71,11 +71,10 @@ Supporting land access and agricultural integration
 
 Collaborating in knowledge transfer and regional replication
 
-
 Through collaboration, BEO aims to ensure that the research is rigorous, transparent, and impactful, providing the data and insights needed to guide informed decisions about energy, agriculture, and digital asset production in the Mediterranean region and beyond.
 
 
-
+Join the conversation and connect with BEO stakeholders on our [GitHub Discussions](https://github.com/blankworker1/BEO/discussions) page!
 
 
 
