@@ -158,7 +158,7 @@ Network Development: Establishes a foundation for a distributed Mediterranean BE
 
 The BEO programme is structured as two complementary research projects:
 
-Project A: Laboratory-Scale BEO
+### Project A: Laboratory-Scale BEO
 
 Establishes the core measurement instrument
 
@@ -169,7 +169,7 @@ Produces baseline BTC/kWh datasets
 Defines data standards and protocols
 
 
-Project B: BEO Agriculture
+### Project B: BEO Agriculture
 
 Deploys the validated instrument in real-world agricultural settings
 
