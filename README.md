@@ -1,0 +1,2 @@
+# BEO
+Bitcoin Energy Observatory 
